@@ -6,6 +6,8 @@ The project allow us to set up a system that allows users to access a frontend W
 
 This repository provides the necessary infrastructure-as-code (IAC) using Terraform to deploy a Serverless REST API on the AWS Cloud. The API leverages various AWS services, including API Gateway, AWS Lambda, Amazon Cognito, S3 Bucket, DynamoDB, and Amazon CloudWatch, to create a secure and scalable solution for user authentication and data storage.
 
+<img src="./pics/diagramCommit.png" alt="diagramCommit.png" title="diagramCommit.png">
+
 # Why Choose a Serverless REST API?
 
 A Serverless REST API offers several advantages and benefits compared to traditional server-based architectures. Here are some reasons why choosing a Serverless approach for a REST API can be beneficial:
